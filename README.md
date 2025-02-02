@@ -9,7 +9,8 @@ Trabajo dentro de un equipo Ágil siguiendo la metodología SCRUM y el marco de 
 
 ## Lo que he hecho 👋
 
-🔭 Actualmente, estoy trabajando en una API REST en Laravel 11 como servidor de autenticación.  
+🔭 Actualmente, estoy trabajando en una API REST en Laravel 11 como servidor de autenticación.
+🧠 Estoy aprendiendo REACT con Next.js y TSX
 🌱 Tengo un título en Ingeniería en Sistemas y me especializo en soluciones Backend.  
 👯 Estoy buscando colaborar en proyectos Backend o en Aplicaciones de Página Única (SPAs) utilizando Vue3 y TypeScript.  
 ⚡ Mi experiencia incluye:
